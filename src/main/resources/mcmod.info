@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
+  "modid": "modprogression",
+  "name": "Mod Progression",
+  "description": "The Mod Progression mod unlocks mods upon completion of user-defined criteria.",
+  "version": "1.8.9-0.1",
   "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "url": "www.minecrunch.net",
+  "updateUrl": "www.minecrunch.net/mods",
+  "authorList": ["Jonpro03", "tstreit1"],
+  "credits": "The Minecrunch Development Team.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
